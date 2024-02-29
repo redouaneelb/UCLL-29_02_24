@@ -9,3 +9,5 @@ Steps:
 * Add & commit file
 * Push file
 * See your amazing changes in Github
+
+* Resolve merge conflict
