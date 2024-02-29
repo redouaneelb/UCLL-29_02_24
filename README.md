@@ -11,3 +11,5 @@ Steps:
 * See your amazing changes in Github
 
 * Resolve merge conflict
+* Changed through git
+
