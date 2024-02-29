@@ -5,3 +5,7 @@ TODO
 Update file 
 
 Steps:
+* Change fil locally
+* Add & commit file
+* Push file
+* See your amazing changes in Github
